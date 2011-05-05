@@ -1,0 +1,5 @@
+# definition of service status pages available
+ID>STAGE https://api.stage.bbc.co.uk/idservices/servicestatus
+ID>TEST https://api.test.bbc.co.uk/idservices/servicestatus
+SCL>LIVE https://api.live.bbc.co.uk/social/servicestatus
+SCL>STAGE https://api.stage.bbc.co.uk/social/servicestatus

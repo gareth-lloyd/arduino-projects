@@ -1,0 +1,4 @@
+# format: <server> <job>
+https://ci.int.bbc.co.uk/hudson-int-app /view/SocialServices/job/Social%20API%20Client
+https://ci.int.bbc.co.uk/hudson-int-app /view/SocialServices/job/Social%20API%20Acceptance%20on%20int
+https://ci.int.bbc.co.uk/hudson-int-app /view/SocialServices/job/Social%20API%20Acceptance%20on%20test

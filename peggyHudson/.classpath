@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="**/*.java" kind="src" output="target/test-classes" path="src/test/java"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry including="**/*.java" kind="src" path="src/main/java"/>
+	<classpathentry kind="var" path="M2_REPO/javax/activation/activation/1.1/activation-1.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/javax/mail/mail/1.4/mail-1.4.jar"/>
+	<classpathentry kind="var" path="M2_REPO/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar"/>
+	<classpathentry kind="var" path="M2_REPO/aopalliance/aopalliance/1.0/aopalliance-1.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/asm/asm/1.5.3/asm-1.5.3.jar"/>
+	<classpathentry kind="var" path="M2_REPO/bbc/forge/api/bbc-forge-api/3.0.18/bbc-forge-api-3.0.18.jar"/>
+	<classpathentry kind="var" path="M2_REPO/cglib/cglib/2.1_3/cglib-2.1_3.jar"/>
+	<classpathentry kind="var" path="M2_REPO/commons-codec/commons-codec/1.3/commons-codec-1.3.jar"/>
+	<classpathentry kind="var" path="M2_REPO/commons-dbcp/commons-dbcp/1.2.2/commons-dbcp-1.2.2.jar"/>
+	<classpathentry kind="var" path="M2_REPO/commons-httpclient/commons-httpclient/3.1/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/commons-lang/commons-lang/2.4/commons-lang-2.4.jar"/>
+	<classpathentry kind="var" path="M2_REPO/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/commons-pool/commons-pool/1.3/commons-pool-1.3.jar"/>
+	<classpathentry kind="var" path="M2_REPO/httpclient/httpclient/3.1/httpclient-3.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/httpcomponents/httpclient/4.0/httpclient-4.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/httpcomponents/httpcore/4.0.1/httpcore-4.0.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/codehaus/jettison/jettison/1.2/jettison-1.2.jar"/>
+	<classpathentry kind="var" path="M2_REPO/joda-time/joda-time/1.6/joda-time-1.6.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/json/json/20070829/json-20070829.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/tomcat/juli/6.0.20/juli-6.0.20.jar"/>
+	<classpathentry kind="var" path="M2_REPO/junit/junit/4.5/junit-4.5.jar"/>
+	<classpathentry kind="var" path="M2_REPO/log4j/log4j/1.2.15/log4j-1.2.15.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/danga/memcached/2.0.1/memcached-2.0.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/spy/memcached/2.4.2/memcached-2.4.2.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/mockito/mockito-all/1.8.0-rc2/mockito-all-1.8.0-rc2.jar"/>
+	<classpathentry kind="var" path="M2_REPO/mysql/mysql-connector-java/5.1.6/mysql-connector-java-5.1.6.jar"/>
+	<classpathentry kind="var" path="M2_REPO/columba/ristretto-common/1.0/ristretto-common-1.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/columba/ristretto-smtp/1.0/ristretto-smtp-1.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/gnu/io/RXTXcomm/1.0/RXTXcomm-1.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/slf4j/slf4j-api/1.5.6/slf4j-api-1.5.6.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/springframework/spring-aop/2.5.6/spring-aop-2.5.6.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/springframework/spring-beans/2.5.6/spring-beans-2.5.6.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/springframework/spring-context/2.5.6/spring-context-2.5.6.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/springframework/spring-context-support/2.5.6/spring-context-support-2.5.6.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/springframework/spring-core/2.5.6/spring-core-2.5.6.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/springframework/spring-orm/2.5.6/spring-orm-2.5.6.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/springframework/spring-tx/2.5.6/spring-tx-2.5.6.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/springframework/spring-web/2.5.6/spring-web-2.5.6.jar"/>
+	<classpathentry kind="var" path="M2_REPO/stax/stax-api/1.0.1/stax-api-1.0.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/tomcat/tomcat-jdbc/1.0.8_4/tomcat-jdbc-1.0.8_4.jar"/>
+	<classpathentry kind="var" path="M2_REPO/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/thoughtworks/xstream/xstream/1.3.1/xstream-1.3.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
