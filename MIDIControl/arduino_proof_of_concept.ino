@@ -12,7 +12,7 @@
 #define CONTROL_CHANGE 'c'
 #define INCREMENT_CC 'i'
 #define DECREMENT_CC 'd'
-#define MIN_CC 127
+#define MIN_CC 0
 #define MAX_CC 127
 
 typedef struct {
